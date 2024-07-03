@@ -40,9 +40,9 @@ This simple weather app allows users to search for a city and get current weathe
 </p>
 <p align="center">
   <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/5.png" width="300" height="600" />
-  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/6.png" width="800" height="200" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/6.png" width="600" height="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/7.png" width="800" height="200" />
-  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/8.png" width="800" height="200" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/7.png" width="600" height="200" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/8.png" width="600" height="200" />
 </p>
