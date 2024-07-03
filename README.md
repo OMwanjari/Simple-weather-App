@@ -31,14 +31,14 @@ This simple weather app allows users to search for a city and get current weathe
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/1.jpg" width="300" height="600" />
-  <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/2.jpg" width="300" height="600" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/1.png" width="300" height="600" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/2.png" width="300" height="600" />
 </p>
 <p align="center">
-  <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/3.jpeg" width="300" height="600" />
-  <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/4.png" width="300" height="600" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/3.png" width="300" height="600" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/4.png" width="300" height="600" />
 </p>
 <p align="center">
-  <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/5.jpeg" width="300" height="600" />
+  <img src="https://github.com/OMwanjari/Simple-weather-App/blob/main/5.jpeg" width="300" height="600" />
   <img src="https://github.com/OMwanjari/SimpleWeatherApp/blob/main/6.png" width="300" height="600" />
 </p>
