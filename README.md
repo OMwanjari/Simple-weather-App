@@ -5,9 +5,11 @@ This simple weather app allows users to search for a city and get current weathe
 ## Features
 
 - City search with autocomplete using Geoapify Places API.
+- Responsive design for any device
 - Fetches and displays current weather data using OpenWeatherMap API.
 - Displays additional weather information such as temperature, humidity, and wind speed.
 - User-friendly and responsive interface.
+- Refresh button in weather page AppBar
 
 ## Installation
 
